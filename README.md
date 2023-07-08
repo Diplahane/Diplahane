@@ -29,7 +29,7 @@ Here are a few noteworthy projects I have worked on:
 3. **[Static Website Hosting Using AWS S3](https://github.com/Diplahane/AWS-S3.git)**
    - Deployed and managed static websites on AWS cloud using AWS CLI, optimizing efficiency and scalability of website deployment.
 
-4. **[Ansible Orchestrated Apache Web Hosting on AWS EC2](https://github.com/harshartz/Ansible-Orchestrated-Apache-Web-Hosting-on-AWS-EC2.git)**
+4. **[Ansible Orchestrated Apache Web Hosting on AWS EC2](https://github.com/Diplahane/Ansible-Orchestrated-Apache-Web-Hosting-on-AWS-EC2.git)**
    - Set up and configured a multi-server environment using Ansible on AWS EC2, with the objective of hosting an Apache server on multiple Ubuntu servers.
 
 5. **[Terraform AWS Instance](https://github.com/Diplahane/Terraform-AWS-Inastance.git)**
