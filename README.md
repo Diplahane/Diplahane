@@ -38,7 +38,7 @@ Here are a few noteworthy projects I have worked on:
 
 
 ## Education
-- Bachelor of Engineering, Savitribai Phule Pune University, 2019 - 2022
+- Bachelor of Engineering, Savitribai Phule Pune University, 2017 - 2022
 - CGPA: 7.97
 
 ## Certifications
